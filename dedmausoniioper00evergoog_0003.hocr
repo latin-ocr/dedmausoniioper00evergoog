@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dedmausoniioper00evergoog_0003.png"; bbox 0 0 821 1385; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 251 672 517 695">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 251 672 517 695">
+     <span class='ocr_line' id='line_1_1' title="bbox 251 672 517 695; baseline -0.004 -3"><span class='ocrx_word' id='word_1_1' title='bbox 251 673 336 693; x_wconf 56' lang='lat' dir='ltr'>mathath</span> <span class='ocrx_word' id='word_1_2' title='bbox 351 672 425 695; x_wconf 59' lang='lat' dir='ltr'>(eruntne</span> <span class='ocrx_word' id='word_1_3' title='bbox 439 672 517 695; x_wconf 57' lang='lat' dir='ltr'>athratg</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 346 721 423 729">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 346 721 423 729">
+     <span class='ocr_line' id='line_1_2' title="bbox 346 721 423 729; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 346 721 384 729; x_wconf 64' lang='lat' dir='ltr'>raom</span> <span class='ocrx_word' id='word_1_5' title='bbox 393 721 423 729; x_wconf 70' lang='lat' dir='ltr'>Tum</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 230 755 539 769">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 230 755 539 769">
+     <span class='ocr_line' id='line_1_3' title="bbox 230 755 539 769; baseline -0.003 -1"><span class='ocrx_word' id='word_1_6' title='bbox 230 755 420 769; x_wconf 70' lang='lat' dir='ltr'>SALISBURY</span> <span class='ocrx_word' id='word_1_7' title='bbox 447 755 539 768; x_wconf 69' lang='lat' dir='ltr'>FUND.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 204 816 281 844">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 204 816 281 844">
+     <span class='ocr_line' id='line_1_4' title="bbox 204 816 281 829; baseline -0.013 -3"><span class='ocrx_word' id='word_1_8' title='bbox 204 817 215 826; x_wconf 67' lang='grc' dir='ltr'>ιη</span> <span class='ocrx_word' id='word_1_9' title='bbox 229 816 253 829; x_wconf 54' lang='grc' dir='ltr'>ικςε</span> <span class='ocrx_word' id='word_1_10' title='bbox 267 816 281 826; x_wconf 54' lang='grc' dir='ltr'>ει</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 222 833 248 844; baseline -0.077 0"><span class='ocrx_word' id='word_1_11' title='bbox 222 833 248 844; x_wconf 72' lang='grc' dir='ltr'>(ει.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 74 82 716 1246">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 74 82 716 1246">
+     <span class='ocr_line' id='line_1_6' title="bbox 74 82 716 1246; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 74 82 716 1246; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
